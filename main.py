@@ -2,7 +2,7 @@
 
 import os
 
-LINE = "Your Honour, the glass was already falling. I merely provided the supervision it clearly lacked."
+LINE = "Your Honour, the glass was already falling. I merely supervised — and, I would remind the court, I have no thumbs."
 
 
 def main():
